@@ -155,7 +155,7 @@ const questions = [
     ],
   },
   {
-    question: "Which is your favorite season?",
+    question: "Which is my favorite series?",
     answers: [
       {
         text: "Breaking Bad",
