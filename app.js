@@ -221,7 +221,7 @@ const questions = [
     question: "What is my favorite social media application?",
     answers: [
       {
-        text: "Instagran",
+        text: "Instagram",
         correct: true,
       },
       {
