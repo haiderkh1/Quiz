@@ -155,7 +155,7 @@ const questions = [
     ],
   },
   {
-    question: "Which is your favorite season?",
+    question: "Which is my favorite series?",
     answers: [
       {
         text: "Breaking Bad",
@@ -221,7 +221,7 @@ const questions = [
     question: "What is my favorite social media application?",
     answers: [
       {
-        text: "Instagran",
+        text: "Instagram",
         correct: true,
       },
       {
